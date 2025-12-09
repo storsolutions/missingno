@@ -53,10 +53,5 @@ Pour exécuter les scripts et reproduire l'analyse et le nettoyage :
     ```
     Cela affichera les statistiques descriptives et générera les graphiques de comparaison.
 
-## Auteur
-
-[Votre Nom/Pseudo]
-[Date]
-
 ---
 **Note :** Les images des visualisations générées ne sont pas directement incluses dans ce `README.md` mais sont sauvegardées en tant que fichiers `.png` dans le dossier `visualisations/` après exécution des scripts correspondants.
